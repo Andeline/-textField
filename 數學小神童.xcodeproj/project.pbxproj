@@ -13,6 +13,7 @@
 		5767B84F264A9B9D0005E688 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5767B84D264A9B9D0005E688 /* Main.storyboard */; };
 		5767B851264A9BA10005E688 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5767B850264A9BA10005E688 /* Assets.xcassets */; };
 		5767B854264A9BA10005E688 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5767B852264A9BA10005E688 /* LaunchScreen.storyboard */; };
+		5767B85D264A9C7E0005E688 /* jf-openhuninn-1.1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5767B85C264A9C7E0005E688 /* jf-openhuninn-1.1.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5767B850264A9BA10005E688 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5767B853264A9BA10005E688 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5767B855264A9BA10005E688 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5767B85C264A9C7E0005E688 /* jf-openhuninn-1.1.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "jf-openhuninn-1.1.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		5767B846264A9B9D0005E688 /* 數學小神童 */ = {
 			isa = PBXGroup;
 			children = (
+				5767B85C264A9C7E0005E688 /* jf-openhuninn-1.1.ttf */,
 				5767B847264A9B9D0005E688 /* AppDelegate.swift */,
 				5767B849264A9B9D0005E688 /* SceneDelegate.swift */,
 				5767B84B264A9B9D0005E688 /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5767B854264A9BA10005E688 /* LaunchScreen.storyboard in Resources */,
+				5767B85D264A9C7E0005E688 /* jf-openhuninn-1.1.ttf in Resources */,
 				5767B851264A9BA10005E688 /* Assets.xcassets in Resources */,
 				5767B84F264A9B9D0005E688 /* Main.storyboard in Resources */,
 			);
